@@ -1,0 +1,16 @@
+{
+    "title": "Bolder Menu Font",
+    "name": "bolder-menu-font",
+    "description": "This extension increases the font weight of the menu, improving readability.",
+    "version": "0.1.0",
+    "author": "Mark Simulacrum <mark.simulacrum@gmail.com>",
+    "homepage": "https://github.com/Mark-Simulacrum/Brackets-Bolder-Menu-Font",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Mark-Simulacrum/Brackets-Bolder-Menu-Font.git"
+    },
+    "engines": {
+        "brackets": ">=0.36.0"
+    },
+    "keywords": ["menu", "font", "readability"]
+}
